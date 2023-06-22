@@ -109,8 +109,3 @@ function saudacao(nome = "ore") {
   console.log("Olá, " + nome + "! Obrigado por escolher esse belo personagem. Com coragem e determinação, avançamos sem temer. Somos fortes, somos unidos, somos invencíveis! Pelos nossos ideais, lutaremos até o fim! ❤");
 }
 //=> arrow function
-
-
-
-
-yhjtyjtyhjyjy
