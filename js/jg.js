@@ -112,5 +112,3 @@ function saudacao(nome = "ore") {
 
 
 
-
-yhjtyjtyhjyjy
