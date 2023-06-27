@@ -12,3 +12,4 @@ O curso da Alura abrange diversos tópicos essenciais para quem deseja dominar J
 - Manipulação do DOM: como interagir com o Document Object Model (DOM) para manipular elementos HTML, como criar, alterar e excluir elementos da página.
 - Eventos: entendimento de como lidar com eventos, como cliques de botões e movimentos do mouse, e executar ações em resposta a eles.
 
+![icons8-javascript-144](https://github.com/nathazz/alura-javaScript/assets/105741461/9177c430-9ce9-49f1-8de3-24476c33fc78)
