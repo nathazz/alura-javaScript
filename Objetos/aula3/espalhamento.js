@@ -22,9 +22,11 @@ function ligarParaCliente(telefoneComercial, telefoneResidencial){
 
 
 ligarParaCliente(...cliente.telefone)
+//o ... foi usado aqui pra copiar o elemento que está dentro do array
 
 const encomenda = {
     destinatario: cliente.nome,
+    //mudamos o nome para destinatario
     ...cliente.endereco[0]
 }
 
