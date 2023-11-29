@@ -1,10 +1,10 @@
-# Alura JavaScript
+# JavaScript
 
-Este repositório foi criado como parte do meu curso na Alura, onde estou aprimorando minhas habilidades em JavaScript. O objetivo do curso é consolidar os conceitos fundamentais dessa linguagem de programação, fornecendo uma base sólida para o desenvolvimento de aplicações web.
+Este repositório foi criado como parte do meus estudos, onde estou aprimorando minhas habilidades em JavaScript. O objetivo do curso é consolidar os conceitos fundamentais dessa linguagem de programação, fornecendo uma base sólida para o desenvolvimento de aplicações web.
 
-## Sobre o Curso
+## Sobre
 
-O curso da Alura abrange diversos tópicos essenciais para quem deseja dominar JavaScript. Durante o curso, estou aprendendo sobre:
+abrange diversos tópicos essenciais para quem deseja dominar JavaScript. Durante o meu ensino, estou aprendendo sobre:
 
 - Variáveis e tipos de dados: como declarar variáveis, utilizar diferentes tipos de dados e compreender as peculiaridades de cada um deles.
 - Estruturas de controle: utilização de condicionais (if, else) e estruturas de repetição (for, while) para controlar o fluxo do programa.
